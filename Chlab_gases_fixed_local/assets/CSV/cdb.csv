@@ -287,16 +287,16 @@ Diethylamine,Organic,Solid,1,Diethylamine,Diethylamine,Diethylamine,0.707,-50,-4
 Acetamide,Solid,Solid,1,Acetamide,Acetamide,Acetamide,1.16,1.16,1.16,59.07,100,82.3,221.2,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,アセトアミド,乙酰胺,乙酰胺,아세트아미드,100,1,1,0,0,0
 Formamide,Organic,Solid,1,Formamide,Formamide,Formamide,1.134,1.134,1.134,45.04,100,2.5,210.5,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ホルムアミド,甲酰胺,甲酰胺,포름아마이드,100,1,1,0,0,0
 Acetonitrile,Organic,Solid,1,Acetonitrile,Acetonitrile,Acetonitrile,0.786,0.786,0.786,41.05,100,-44,81.6,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,アセトニトリ儿,乙腈,乙腈,아세토니트릴,100,1,0,0,0,0
-Benzene,Organic,Liquid,1,Benzene,Benzene,Benzene,0.879,0.879,0.879,78.11,0.18,5.5,80.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ベンゼン,苯,苯,벤젠,0.18,1,0,0,0,0
-Toluene,Organic,Liquid,1,Toluene,Toluene,Toluene,0.867,0.867,0.867,92.14,0.052,-95,110.6,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,トルエン,甲苯,甲苯,톨루엔,0.052,1,0,0,0,0
-Ethylbenzene,Organic,Liquid,1,Ethylbenzene,Ethylbenzene,Ethylbenzene,0.867,0.867,0.867,106.16,0.015,-95,136,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,エチルベンゼン,乙苯,乙苯,에틸벤젠,0.015,1,0,0,0,0
-Styrene,Organic,Liquid,1,Styrene,Styrene,Styrene,0.906,0.906,0.906,104.15,0.03,-30.6,145,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ス伵レン,苯乙烯,苯乙烯,스타이렌,0.03,1,0,0,0,0
+Benzene,Liquid,Liquid,1,Benzene,Benzene,Benzene,0.879,0.879,0.879,78.11,0.18,5.5,80.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ベンゼン,苯,苯,벤젠,0.18,1,0,0,0,0
+Toluene,Liquid,Liquid,1,Toluene,Toluene,Toluene,0.867,0.867,0.867,92.14,0.052,-95,110.6,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,トルエン,甲苯,甲苯,톨루엔,0.052,1,0,0,0,0
+Ethylbenzene,Liquid,Liquid,1,Ethylbenzene,Ethylbenzene,Ethylbenzene,0.867,0.867,0.867,106.16,0.015,-95,136,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,エチルベンゼン,乙苯,乙苯,에틸벤젠,0.015,1,0,0,0,0
+Styrene,Liquid,Liquid,1,Styrene,Styrene,Styrene,0.906,0.906,0.906,104.15,0.03,-30.6,145,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ス伵レン,苯乙烯,苯乙烯,스타이렌,0.03,1,0,0,0,0
 Phenol,Solid,Solid,1,Phenol,Phenol,Phenol,1.071,1.071,1.071,94.11,8.3,40.5,181.9,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,フェルール,苯酚,苯酚,페놀,8.3,1,1,0,0,0
-Chloroform,Organic,Liquid,1,Chloroform,Chloroform,Chloroform,1.483,1.483,1.483,119.38,0.8,-63.5,60.5,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,クロロホルム,三氯甲烷,三氯甲烷,클로로포름,0.8,1,0,0,0,0
-Dichloromethane,Organic,Liquid,1,Dichloromethane,Dichloromethane,Dichloromethane,1.327,1.327,1.327,84.93,1.3,-97,40,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ジクロロメタ儿,二氯甲烷,二氯甲烷,디클로로메탄,1.3,1,0,0,0,0
+Chloroform,Liquid,Liquid,1,Chloroform,Chloroform,Chloroform,1.483,1.483,1.483,119.38,0.8,-63.5,60.5,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,クロロホルム,三氯甲烷,三氯甲烷,클로로포름,0.8,1,0,0,0,0
+Dichloromethane,Liquid,Liquid,1,Dichloromethane,Dichloromethane,Dichloromethane,1.327,1.327,1.327,84.93,1.3,-97,40,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ジクロロメタ儿,二氯甲烷,二氯甲烷,디클로로메탄,1.3,1,0,0,0,0
 2-Dichloroethane,Organic,Gas,0,2-Dichloroethane,2-Dichloroethane,2-Dichloroethane,1,2-Dichloroethane,1,2-Dichloroethane,1.245,1.245,1.245,1,0xFFFFFF,0.6,0xFFFFFF,0.6,0xFFFFFF,0.6,0xFFFFFF,0.6,None,1,None,1,0.4,0.3,1,2-ジクロロエタン,1,2-二氯乙烷,1,2-二氯乙烷
-Trichloroethylene,Organic,Liquid,1,Trichloroethylene,Trichloroethylene,Trichloroethylene,1.462,1.462,1.462,131.4,0.11,-84.8,87.2,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,トリクロロエチレン,三氯乙烯,三氯乙烯,트리클로로에틸렌,0.11,1,0,0,0,0
-Tetrachloroethylene,Organic,Liquid,1,Tetrachloroethylene,Tetrachloroethylene,Tetrachloroethylene,1.623,1.623,1.623,165.83,0.015,-22.3,121.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,テトラクロロエチレン,四氯乙烯,四氯乙烯,테트라클로로에틸렌,0.015,1,0,0,0,0
+Trichloroethylene,Liquid,Liquid,1,Trichloroethylene,Trichloroethylene,Trichloroethylene,1.462,1.462,1.462,131.4,0.11,-84.8,87.2,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,トリクロロエチレン,三氯乙烯,三氯乙烯,트리클로로에틸렌,0.11,1,0,0,0,0
+Tetrachloroethylene,Liquid,Liquid,1,Tetrachloroethylene,Tetrachloroethylene,Tetrachloroethylene,1.623,1.623,1.623,165.83,0.015,-22.3,121.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,テトラクロロエチレン,四氯乙烯,四氯乙烯,테트라클로로에틸렌,0.015,1,0,0,0,0
 Sodium chloride,Solid,Solid,1,Sodium chloride,Sodium chloride,Sodium chloride,2.165,2.165,2.165,58.44,35.7,801,1413,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化ナトリウム,氯化钠,氯化鈉,염화나트륨,35.7,0,0,1,0,0
 Potassium chloride,Solid,Solid,1,Potassium chloride,Potassium chloride,Potassium chloride,1.988,1.988,1.988,74.55,34.4,770,1420,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化カリウム,氯化钾,氯化鉀,염화칼륨,34.4,0,0,1,0,0
 Calcium chloride,Solid,Solid,1,Calcium chloride,Calcium chloride,Calcium chloride,2.15,2.15,2.15,110.98,74.5,772,1935,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化カルシウム,氯化钙,氯化鈣,염화칼슘,74.5,0,0,1,0,0
@@ -489,19 +489,19 @@ CCl2F2,Organic,Gas,1,CCl2F2,CCl2F2,CCl2F2,1.311,-158,120.91,0.028,-158,-29.8,0.1
 C2Cl3F3,Organic,Gas,1,C2Cl3F3,C2Cl3F3,C2Cl3F3,1.575,-35,187.38,0.05,-35,48,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,C2Cl3F3,三氯三氟乙烷,三氯三氟乙烷,트리클로로트리플루오로에탄,0.05,1,0,0,0,0,
 CBrF3,Organic,Gas,1,CBrF3,CBrF3,CBrF3,1.57,-177,148.91,0.001,-177,-57.8,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,CBrF3,溴三氟甲烷,溴三氟甲烷,브로모트리플루오로메탄,0.001,1,0,0,0,0,
 CHClF2,Organic,Gas,1,CHClF2,CHClF2,CHClF2,1.213,-160,86.47,0.3,-160,-40.8,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,CHClF2,氯二氟甲烷,氯二氟甲烷,클로로디플루오로메탄,0.3,1,0,0,0,0,
-Perchloric acid,Inorganic,Liquid,1,Perchloric acid,Perchloric acid,Perchloric acid,1.768,1.768,1.768,100.46,200,-19,203,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO4,高氯酸,高氯酸,과염소산,200,1,1,0,0,0
-Chloric acid,Inorganic,Liquid,1,Chloric acid,Chloric acid,Chloric acid,1.11,1.11,1.11,84.46,100,10,110,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO3,氯酸,氯酸,염소산,100,1,1,0,0,0
-Hypochlorous acid,Inorganic,Liquid,1,Hypochlorous acid,Hypochlorous acid,Hypochlorous acid,1.1,1.1,1.1,52.46,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO,次氯酸,次氯酸,차아염소산,100,1,1,0,0,0
-Nitrous acid,Inorganic,Liquid,1,Nitrous acid,Nitrous acid,Nitrous acid,1.0,1.0,1.0,47.01,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HNO2,亚硝酸,亞硝酸,아질산,100,1,1,0,0,0
+Perchloric acid,Liquid,Liquid,1,Perchloric acid,Perchloric acid,Perchloric acid,1.768,1.768,1.768,100.46,200,-19,203,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO4,高氯酸,高氯酸,과염소산,200,1,1,0,0,0
+Chloric acid,Liquid,Liquid,1,Chloric acid,Chloric acid,Chloric acid,1.11,1.11,1.11,84.46,100,10,110,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO3,氯酸,氯酸,염소산,100,1,1,0,0,0
+Hypochlorous acid,Liquid,Liquid,1,Hypochlorous acid,Hypochlorous acid,Hypochlorous acid,1.1,1.1,1.1,52.46,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO,次氯酸,次氯酸,차아염소산,100,1,1,0,0,0
+Nitrous acid,Liquid,Liquid,1,Nitrous acid,Nitrous acid,Nitrous acid,1.0,1.0,1.0,47.01,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HNO2,亚硝酸,亞硝酸,아질산,100,1,1,0,0,0
 Phosphoric acid,Solid,Solid,1,Phosphoric acid,Phosphoric acid,Phosphoric acid,1.885,1.885,1.885,98,100,42.4,158,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,H3PO4,磷酸,磷酸,인산,100,1,1,0,0,0
 Phosphorous acid,Solid,Solid,1,Phosphorous acid,Phosphorous acid,Phosphorous acid,1.651,1.651,1.651,82,100,73.6,200,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,H3PO3,亚磷酸,亞磷酸,아인산,100,1,1,0,0,0
-Carbonic acid,Inorganic,Liquid,1,Carbonic acid,Carbonic acid,Carbonic acid,1.0,1.0,1.0,62.03,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,H2CO3,碳酸,碳酸,탄산,100,1,1,0,0,0
-Bromic acid,Inorganic,Liquid,1,Bromic acid,Bromic acid,Bromic acid,1.5,1.5,1.5,128.91,100,-20,130,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HBrO3,溴酸,溴酸,브롬산,100,1,1,0,0,0
-Hydroiodic acid,Inorganic,Liquid,1,Hydroiodic acid,Hydroiodic acid,Hydroiodic acid,1.7,1.7,1.7,127.91,100,-50,127,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HI,氢碘酸,氫碘酸,요오드화수소,100,1,1,0,0,0
+Carbonic acid,Liquid,Liquid,1,Carbonic acid,Carbonic acid,Carbonic acid,1.0,1.0,1.0,62.03,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,H2CO3,碳酸,碳酸,탄산,100,1,1,0,0,0
+Bromic acid,Liquid,Liquid,1,Bromic acid,Bromic acid,Bromic acid,1.5,1.5,1.5,128.91,100,-20,130,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HBrO3,溴酸,溴酸,브롬산,100,1,1,0,0,0
+Hydroiodic acid,Liquid,Liquid,1,Hydroiodic acid,Hydroiodic acid,Hydroiodic acid,1.7,1.7,1.7,127.91,100,-50,127,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HI,氢碘酸,氫碘酸,요오드화수소,100,1,1,0,0,0
 COCl2,Inorganic,Gas,1,Phosgene,Phosgene,Phosgene,1.381,-118,99.92,0.5,-118,8,0.1,0,0xE0E0E0,0.6,0xE0E0E0,0.6,0xE0E0E0,0.6,0xE0E0E0,0.6,0.3,ホスゲン,光气,光氣,포스젠,0.5,1,0,0,0,0,
 COS,Inorganic,Gas,1,COS,COS,COS,1.028,-138,60.07,0.4,-138,-50,0.1,0,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0.3,硫化カルボニル,氧硫化碳,氧硫化碳,카보닐설파이드,0.4,1,0,0,0,0,
-Thionyl chloride,Inorganic,Liquid,1,Thionyl chloride,Thionyl chloride,Thionyl chloride,1.64,1.64,1.64,118.97,0.1,-104,75,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化チオニル,亚磺酰氯,亞磺酰氯,티오닐클로리드,0.1,1,0,0,0,0
-Sulfuryl chloride,Inorganic,Liquid,1,Sulfuryl chloride,Sulfuryl chloride,Sulfuryl chloride,1.68,1.68,1.68,134.97,0.1,-50,69,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化スニ儿ル,磺酰氯,磺酰氯,설퍼릴클로리드,0.1,1,0,0,0,0
+Thionyl chloride,Liquid,Liquid,1,Thionyl chloride,Thionyl chloride,Thionyl chloride,1.64,1.64,1.64,118.97,0.1,-104,75,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化チオニル,亚磺酰氯,亞磺酰氯,티오닐클로리드,0.1,1,0,0,0,0
+Sulfuryl chloride,Liquid,Liquid,1,Sulfuryl chloride,Sulfuryl chloride,Sulfuryl chloride,1.68,1.68,1.68,134.97,0.1,-50,69,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化スニ儿ル,磺酰氯,磺酰氯,설퍼릴클로리드,0.1,1,0,0,0,0
 SF6,Inorganic,Gas,1,SF6,SF6,SF6,2.61,-64,146.06,0.001,-64,-64,0.1,0,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0.3,六フッ化硫黄,六氟化硫,六氟化硫,헥사플루오린化황,0.001,1,0,0,0,0,
 NF3,Inorganic,Gas,1,NF3,NF3,NF3,3.168,-207,71,0.001,-207,-129,0.1,0,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0.3,三フッ化窒素,三氟化氮,三氟化氮,삼플루오린化질소,0.001,1,0,0,0,0,
 N2O4,Inorganic,Gas,1,N2O4,N2O4,N2O4,1.45,-11,92.01,0.1,-11,21,0.1,0,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0.3,N2O4,四氧化二氮,四氧化二氮,이질소테트록시드,0.1,1,0,0,0,0,
@@ -520,10 +520,10 @@ Gallium trichloride,Solid,Solid,1,Gallium trichloride,Gallium trichloride,Galliu
 Indium trichloride,Solid,Solid,1,Indium trichloride,Indium trichloride,Indium trichloride,3.46,3.46,3.46,221.18,55.8,586,500,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化In,氯化铟,氯化銦,염화인듐,55.8,0,0,1,0,0
 Thallium(I) chloride,Solid,Solid,1,Thallium(I) chloride,Thallium(I) chloride,Thallium(I) chloride,7,7,7,239.84,0.3,430,720,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化Tl(I),氯化亚铊,氯化亞鉈,염화탈륨(I),0.3,0,0,1,0,0
 Thallium(III) chloride,Solid,Solid,1,Thallium(III) chloride,Thallium(III) chloride,Thallium(III) chloride,4.7,4.7,4.7,310.74,1,155,430,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化Tl(III),氯化铊,氯化鉈,염화탈륨(III),1,0,0,1,0,0
-Silicon tetrachloride,Inorganic,Liquid,1,Silicon tetrachloride,Silicon tetrachloride,Silicon tetrachloride,1.48,1.48,1.48,169.9,0.001,-68,57.6,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化ケイ素,四氯化硅,四氯化矽,사염화규소,0.001,1,0,0,0,0
+Silicon tetrachloride,Liquid,Liquid,1,Silicon tetrachloride,Silicon tetrachloride,Silicon tetrachloride,1.48,1.48,1.48,169.9,0.001,-68,57.6,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化ケイ素,四氯化硅,四氯化矽,사염화규소,0.001,1,0,0,0,0
 SiF4,Inorganic,Gas,1,SiF4,SiF4,SiF4,4.67,-90,104.08,0.001,-90,-86,0.1,0,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0.3,四フッ化ケイ素,四氟化硅,四氟化矽,사플루오린화규소,0.001,1,0,0,0,0,
-Germanium tetrachloride,Inorganic,Liquid,1,Germanium tetrachloride,Germanium tetrachloride,Germanium tetrachloride,1.88,1.88,1.88,214.42,0.001,-52,86.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化ゲルマニウム,四氯化锗,四氯化鍺,사염化저르마늄,0.001,1,0,0,0,0
-Titanium tetrachloride,Inorganic,Liquid,1,Titanium tetrachloride,Titanium tetrachloride,Titanium tetrachloride,1.73,1.73,1.73,189.68,0.001,-24,136.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化チタン,四氯化钛,四氯化鈦,사염化타이타늄,0.001,1,0,0,0,0
+Germanium tetrachloride,Liquid,Liquid,1,Germanium tetrachloride,Germanium tetrachloride,Germanium tetrachloride,1.88,1.88,1.88,214.42,0.001,-52,86.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化ゲルマニウム,四氯化锗,四氯化鍺,사염化저르마늄,0.001,1,0,0,0,0
+Titanium tetrachloride,Liquid,Liquid,1,Titanium tetrachloride,Titanium tetrachloride,Titanium tetrachloride,1.73,1.73,1.73,189.68,0.001,-24,136.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化チタン,四氯化钛,四氯化鈦,사염化타이타늄,0.001,1,0,0,0,0
 Zirconium tetrachloride,Solid,Solid,1,Zirconium tetrachloride,Zirconium tetrachloride,Zirconium tetrachloride,2.8,2.8,2.8,233.05,0.1,437,481,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化ジルコニウム,四氯化锆,四氯化鋯,사염化저르코늄,0.1,0,0,1,0,0
 Hafnium tetrachloride,Solid,Solid,1,Hafnium tetrachloride,Hafnium tetrachloride,Hafnium tetrachloride,4.07,4.07,4.07,233.85,0.1,432,481,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化ハフニウム,四氯化铪,四氯化鉿,사염化하프늄,0.1,0,0,1,0,0
 Vanadium tetrachloride,Solid,Solid,1,Vanadium tetrachloride,Vanadium tetrachloride,Vanadium tetrachloride,2.77,2.77,2.77,172.76,0.1,-28,164,0,0x8B4513,1,0xFFFFFF,1,0xFFFFFF,1,0xFFFFFF,1,0.4,0.3,四塩化バナジウム,四氯化钒,四氯化釩,사염化바나듐,0.1,0,0,1,0,0
@@ -533,7 +533,7 @@ Uranyl chloride,Solid,Solid,1,Uranyl chloride,Uranyl chloride,Uranyl chloride,4.
 SOF4,Inorganic,Gas,1,SOF4,SOF4,SOF4,1.78,-99,108.06,0.1,-99,9,0.1,0,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0.3,四フッ化チオシル,四氟化亚磺酰,四氟化亞磺酰氯,티오닐테트라플루오린드,0.1,1,0,0,0,0,
 SeF6,Inorganic,Gas,1,SeF6,SeF6,SeF6,3.66,-39,192.97,0.001,-39,-46.6,0.1,0,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0.3,六フッ化セレン,六氟化硒,六氟化硒,헥사플루오린化셀레늄,0.001,1,0,0,0,0,
 TeF6,Inorganic,Gas,1,TeF6,TeF6,TeF6,4.09,-38,241.6,0.001,-38,-38,0.1,0,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0xFFFFFF,0.05,0.3,六フッ化テルル,六氟化碲,六氟化碲,헥사플루오린化텔루륨,0.001,1,0,0,0,0,
-Chromyl chloride,Inorganic,Liquid,1,Chromyl chloride,Chromyl chloride,Chromyl chloride,1.92,1.92,1.92,154.9,0.1,-96,117,0,0x990000,1,0x990000,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化クロミル,氯铬酰,氯鉻酰,크로밀클로리드,0.1,1,0,0,0,0
+Chromyl chloride,Liquid,Liquid,1,Chromyl chloride,Chromyl chloride,Chromyl chloride,1.92,1.92,1.92,154.9,0.1,-96,117,0,0x990000,1,0x990000,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化クロミル,氯铬酰,氯鉻酰,크로밀클로리드,0.1,1,0,0,0,0
 Vanadyl sulfate,Solid,Solid,1,Vanadyl sulfate,Vanadyl sulfate,Vanadyl sulfate,3,3,3,163,15,100,300,0,0x0000FF,1,0xFFFFFF,1,0xFFFFFF,1,0xFFFFFF,1,0.4,0.3,硫酸バナジル,硫酸氧钒,硫酸氧釩,황산바나딜,15,0,0,1,0,0
 Uranyl nitrate,Solid,Solid,1,Uranyl nitrate,Uranyl nitrate,Uranyl nitrate,2.81,2.81,2.81,394.04,100,60,118,0,0xFFFF00,1,0xFFFFFF,1,0xFFFFFF,1,0xFFFFFF,1,0.4,0.3,硝酸ウラニル,硝酸铀酰,硝酸鈾酰,질산우라닐,100,0,0,1,0,0
 Uranyl acetate,Solid,Solid,1,Uranyl acetate,Uranyl acetate,Uranyl acetate,2.87,2.87,2.87,388.12,10,110,240,0,0xFFFF00,1,0xFFFFFF,1,0xFFFFFF,1,0xFFFFFF,1,0.4,0.3,酶酸ウラニル,乙酸铀酰,乙酸鈾酰,아세테이트우라닐,10,0,0,1,0,0
